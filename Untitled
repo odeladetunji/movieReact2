@@ -1,0 +1,91 @@
+<Grid>
+       <Row className='show-grid'>
+         <Col xs={12} sm={4} md={4}>
+             <div>
+               <i className="fas fa-file-invoice-dollar"></i>
+               <p>Audit</p>
+               <ul>
+                 <li>Pension Fund Audit</li>
+                 <li>Private Audit</li>
+                 <li>Management-Audit</li>
+               </ul>
+             </div>
+         </Col>
+         <Col xs={12} sm={4} md={4}>
+             <div>
+               <i className="fas fa-handshake"></i>
+               <p>Consulting</p>
+               <ul>
+                 <li>Accounting</li>
+                 <li>Share Registration</li>
+                 <li>Design and Installation of accounting system</li>
+               </ul>
+             </div>
+         </Col>
+         <Col xs={12} sm={4} md={4}>
+             <div>
+               <i className="fas fa-money-check-alt"></i>
+               <p>Financial Adversory</p>
+               <ul>
+                 <li>Aquisition Mergers and Absorbtion</li>
+                 <li>Project Financing</li>
+                 <li>Management of ailing Projects</li>
+                 <li>Profitablity planning and improvement</li>
+               </ul>
+             </div>
+         </Col>
+       </Row>
+</Grid>
+
+
+/* #first {
+ margin-right: -700;
+ margin-right: 10px;
+ -webkit-animation-name: courousel; /* Safari 4.0 - 8.0 */
+ -webkit-animation-duration: 8s; /* Safari 4.0 - 8.0 */
+   animation-name: courousel;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+/* @-webkit-keyframes courousel {
+   0%   {margin-left: -100}
+   7.5% {margin-left: -200}
+   15% {margin-left: -300}
+   22.5% {margin-left: -400}
+   30% {margin-left: -500}
+   37.5% {margin-left: -600}
+   45% {margin-left: -700}
+   52.5% {margin-left: -600}
+   60% {margin-left: -500}
+   67.5% {margin-left: -400}
+   65% {margin-left: -300}
+   72.5% {margin-left: -200}
+   80% {margin-left: -100}
+   87.5% {margin-left: -200}
+   90% {margin-left: -300}
+   97.5% {margin-left: -400}
+   100% {margin-left: -500}
+} */
+
+/* Standard syntax */
+/* @keyframes courousel {
+  0%   {margin-left: -100}
+  7.5% {margin-left: -200}
+  15% {margin-left: -300}
+  22.5% {margin-left: -400}
+  30% {margin-left: -500}
+  37.5% {margin-left: -600}
+  45% {margin-left: -700}
+  52.5% {margin-left: -600}
+  60% {margin-left: -500}
+  67.5% {margin-left: -400}
+  65% {margin-left: -300}
+  72.5% {margin-left: -200}
+  80% {margin-left: -100}
+  87.5% {margin-left: -200}
+  90% {margin-left: -300}
+  97.5% {margin-left: -400}
+  100% {margin-left: -500}
+} */
